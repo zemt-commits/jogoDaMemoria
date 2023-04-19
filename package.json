@@ -1,0 +1,23 @@
+{
+  "name": "jogodamemoria",
+  "version": "1.0.0",
+  "description": "jogo de memoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemt-commits/jogoDaMemoria.git"
+  },
+  "author": "Peterson Azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zemt-commits/jogoDaMemoria/issues"
+  },
+  "homepage": "https://github.com/zemt-commits/jogoDaMemoria#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.4"
+  }
+}
